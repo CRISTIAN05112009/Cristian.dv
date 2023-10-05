@@ -1,2 +1,4 @@
 # Cristian.dv
-turma criada para coleta de dados
+Turma criada para coleta de dados
+- Aluno de programação do colegio civico militar ccm senador teotõnio vilela 
+- Eu achei dificil o asseso da conta
